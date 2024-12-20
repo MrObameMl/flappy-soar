@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
+// Привет, странник! Это проект Андрюсика Жестки Сигма! 
 public class Bird : MonoBehaviour
 {
     [HideInInspector]public int Score; // поле которое хранит в себе очки
